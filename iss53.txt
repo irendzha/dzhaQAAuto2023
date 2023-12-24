@@ -1,6 +1,0 @@
-iss53
-second_step
-<<<<<<< HEAD
-=======
-second_step
->>>>>>> iss53
